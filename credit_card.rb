@@ -1,4 +1,4 @@
-# Leave us alone
+# Leave me alone
 class CreditCard
   attr_reader :balance
 
